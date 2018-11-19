@@ -42,17 +42,20 @@ class DetailClubBall() : AppCompatActivity() {
                 width = dip(50)
                 margin = dip(12)
                 topMargin = dip (20)
+                //setMargin(0,0, dip (20),0)
                 gravity = Gravity.CENTER }
             nameTextView = textView{
                 typeface = Typeface.DEFAULT
                 gravity = Gravity.CENTER
-                textSize = sp(20).toFloat()
-                bottomPadding = dip (5) }.lparams{ width = matchParent }
+                textSize = sp(15).toFloat()
+                bottomPadding = dip (5) }.lparams{ width = wrapContent
+                height = wrapContent}
             detailBola = textView {
                 typeface = Typeface.DEFAULT
                 textSize = dip(12).toFloat() }.lparams{
                 bottomMargin = dip(7)
-                width = matchParent }
+                width = wrapContent
+                height = wrapContent}
         }
             val intent =  intent
             val name = intent.getStringExtra("name")

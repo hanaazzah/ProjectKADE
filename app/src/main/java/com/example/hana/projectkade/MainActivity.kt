@@ -32,8 +32,6 @@ class MainActivity : AppCompatActivity() {
 //        }
         list_grup.layoutManager = LinearLayoutManager(applicationContext)
         list_grup.adapter = RecycleViewAdapter(this, items) {
-            val toast = Toast.makeText(applicationContext, it.name, Toast.LENGTH_SHORT)
-            toast.show()
         }
     }
 

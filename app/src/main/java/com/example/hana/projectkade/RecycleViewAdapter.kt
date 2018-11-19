@@ -42,7 +42,8 @@ class RecycleViewAdapter(private val context: Context, private val items: List<I
     class ViewHolder(override val containerView: View) :  RecyclerView.ViewHolder(containerView),
             LayoutContainer {
 
-            fun bindItem(items: Item, listener: (Item)-> Unit){
+            fun bindItem(items: Item,
+                         listener: (Item)-> Unit){
                 name.text = items.name
                 items.image?.let { Picasso.get().load(it).into(image) }
                 containerView.setOnClickListener{
