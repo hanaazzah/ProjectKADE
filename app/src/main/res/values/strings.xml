@@ -20,4 +20,22 @@
         <item>@drawable/img_acm</item>
         <item>@drawable/img_arsenal</item>
     </array>
+    <array name = "detail_grup_bola">
+        <item>Tahun berdiri1899
+            MarkasCamp Nou, Barcelona (kapasitas 99.354 orang)
+            Julukanl’equip Blaugrana, Barca
+            Warna kaosBiru dan Merah
+            ManufakturNike
+            Sponsor SeragamQatar Emirates
+            ManajerLuis Enrique
+            PemilikJosep Maria Bartomeu
+            Pemain BintangLionel Messi, Neymar, Iniesta, Pique</item>
+        <item>Pada tahun-tahun pertama etape baru ini telah hadir di lemari tiga trofi yang rebut oleh Real Madrid besutan José Mourinho. Yang paling banyak mendapat sorotan adalah gelar La Liga 2011-12, yang dilakukan dengan menciptakan rekor 100 poin, angka terbanyak yang dicapai sampai saat itu dalam sejarah kompetisi ini, dan 121 gol.</item>
+        <item>Setelah pertikaian antara manajemen klub dan pemain dari MTV 1879 München di bar “Gisela” di Schwabing, 11 pemain memutuskan untuk memisahkan diri dan membentuk klub sendiri dibawah manajemen Franz John pada 27 Februari 1900. Nama yang dipilih untuk klub yang baru adalah FC Bayern München. </item>
+        <item>Manajer Manchester City kembali mengimbau publik bahwa tim asuhannya bukanlah favorit di Liga Champions.</item>
+        <item>Kebanyakan orang akan mengatakan Manchester United dibentuk pada tahun 1878. Saat itu nama mereka bukanlah Manchester United, melainkan Newton Heath LYR.</item>
+        <item>Kesuksesan pertama Chelsea diraih saat meraih gelar juara liga pada tahun 1955. Beberapa gelar dari berbagai kompetisi juga berhasil diraih pada dekade 1960an, 1970an, 1990an, dan 2000an. </item>
+        <item>Milan, salah satu klub tersukses di dunia tepat pada hari ini merayakan 115 tahun klub berdiri. Associazione Calcio Milan atau yang lebih dikenal dengan AC Milan, dibentuk pada 1899 oleh pria asal Inggris Herbert Kilpin dan pengusaha Alfred  Edwards.</item>
+        <item>Sejarah Arsenal bermula dari inisiatif para pekerja di Royal Arsenal, Woolwich hingga klub ini berdiri pada 1886 dengan nama Dial Square sebelum kemudian berganti nama menjadi Royal Arsenal.</item>
+    </array>
 </resources>
